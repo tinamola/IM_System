@@ -14,7 +14,7 @@ Next, run the server:
 ./server
 ```
 
-Meanwhile, open other terminals and run to log in as different users:
+Meanwhile, open other terminals and log in as different users with:
 
 ```bash
 nc 127.0.0.1 8888
